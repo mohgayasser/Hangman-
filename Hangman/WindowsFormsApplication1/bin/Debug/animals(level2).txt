@@ -1,0 +1,12 @@
+leopard
+locust
+louse
+mallard
+otter
+mosquito
+panda
+pug
+raccoon
+shark
+snail
+snake

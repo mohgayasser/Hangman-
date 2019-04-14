@@ -1,0 +1,15 @@
+bird
+lion
+tiger
+cat
+cow
+sheep
+rabbit
+duck
+hen
+horse
+turkey
+chicken
+donkey
+goat
+llama
